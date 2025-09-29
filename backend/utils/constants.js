@@ -1,0 +1,18 @@
+export const DEPARTMENT_MAPPINGS = {
+  dentist: 'Dentistry',
+  dental: 'Dentistry',
+  tooth: 'Dentistry',
+  doctor: 'General Medicine',
+  physician: 'General Medicine',
+  cardiologist: 'Cardiology',
+  heart: 'Cardiology',
+  dermatologist: 'Dermatology',
+  skin: 'Dermatology',
+  orthopedic: 'Orthopedics',
+  bone: 'Orthopedics',
+  neurologist: 'Neurology',
+  brain: 'Neurology',
+  gynecologist: 'Gynecology',
+  pediatrician: 'Pediatrics',
+  child: 'Pediatrics',
+};
